@@ -1,6 +1,6 @@
 export default {
-  name: 'Visit Tracker app',
-  short_name: 'Visit Tracker',
+  name: 'Travel Logger app',
+  short_name: 'Travel Logger',
   start_url: '/',
   display: 'standalone',
   background_color: '#b65259',

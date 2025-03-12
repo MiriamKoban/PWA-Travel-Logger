@@ -1,3 +1,13 @@
 {
-  "visits": []
+  "visits": [
+    {
+      "title": "HTL WienWest",
+      "date": "2025-03-12",
+      "rating": 5,
+      "comment": "Sehr schöner Ort! Vorallem der WEBT Unterricht",
+      "latitude": 48.2057515,
+      "longitude": 16.3112251,
+      "id": 2
+    }
+  ]
 }

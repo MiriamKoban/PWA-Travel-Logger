@@ -99,8 +99,8 @@ const submitVisit = async () => {
             </q-chip>
           </div>
           <br />
-          <q-btn @click="getLocation" label="Get Location" color= #1400B3 class="q-mt-md" />
-          <q-btn type="submit" label="Submit" color="primary" class="q-mt-md q-ml-md" />
+          <q-btn @click="getLocation" label="Get Location" color= "blue" class="q-mt-md" />
+          <q-btn type="submit" label="Submit" color="green" class="q-mt-md q-ml-md" />
         </q-form>
       </q-card-section>
     </q-card>
